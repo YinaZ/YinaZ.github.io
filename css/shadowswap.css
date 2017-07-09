@@ -1,0 +1,14 @@
+.col-xs-4{
+    height: 20%;
+	padding-left: 10px;
+	padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.col-xs-4 a{
+	margin-bottom: 10px;
+}
+
+.container {
+	margin-top: 40px;
+}
